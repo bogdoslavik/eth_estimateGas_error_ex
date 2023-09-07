@@ -13,9 +13,10 @@ Try running some of the following tasks:
 ```
 npx hardhat test --network hardhat
 ```
-Works well
+Works well. But next two 
 
 ```
+npx hardhat test --network local
 npx hardhat test --network calibration
 ```
 
